@@ -1,6 +1,6 @@
 const navbar = () => {
     return `        <div class="nav">
-    <div><a href="./index.html"><img src="./logo2.png" alt="food app"></a></div>
+    <div><a href="./index.html"><img src="./mainlogo.png" alt="food app"></a></div>
 
     <ul>
        
